@@ -1,0 +1,3 @@
+[submodule "vw-beetle"]
+	path = vw-beetle
+	url = https://github.com/ilysokon/vw-beetle.git
