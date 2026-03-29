@@ -1,3 +1,3 @@
-# stereo-vision-rover
+# Stereo vision rover
 
 ![](./main-block-diagram.png)
